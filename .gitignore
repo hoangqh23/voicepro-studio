@@ -1,0 +1,16 @@
+# Never publish: license admin keys and customer/build output
+src/everai/admin_key/
+EverAI-Admin-Key-Full/
+EverAI-Admin-Key-Full.zip
+*.zip
+dist/
+output/
+# Windows-only FFmpeg download (300 MB) and compiled wheels
+src/everai/vendor/ffmpeg/
+src/everai/vendor/tts_python/
+__pycache__/
+*.pyc
+.pytest_cache/
+.codegraph/
+src/everai/assets/branding/voicepro.icns
+DAC_TA_SAYDI_NGOC_HUYEN_TTS.md

@@ -1,0 +1,62 @@
+name: Build macOS
+
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+
+jobs:
+  build:
+    name: ${{ matrix.label }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { os: macos-15, label: macOS-arm64 }
+          - { os: macos-15-intel, label: macOS-intel }
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r src/everai/requirements-build.txt pytest imageio-ffmpeg
+
+      - name: Test (non-blocking until the first green macOS run)
+        continue-on-error: true
+        env:
+          QT_QPA_PLATFORM: offscreen
+        run: python -m pytest tests/test_everai.py -q
+
+      - name: Locate FFmpeg
+        run: |
+          FFMPEG="$(python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')"
+          chmod +x "$FFMPEG"
+          "$FFMPEG" -version | head -1
+          echo "FFMPEG_BIN=$FFMPEG" >> "$GITHUB_ENV"
+
+      - name: Make app icon
+        run: |
+          set -e
+          SRC=src/everai/assets/branding/voicepro-logo.png
+          SET=$RUNNER_TEMP/voicepro.iconset
+          mkdir -p "$SET"
+          for s in 16 32 128 256 512; do
+            sips -z $s $s "$SRC" --out "$SET/icon_${s}x${s}.png" >/dev/null
+            sips -z $((s*2)) $((s*2)) "$SRC" --out "$SET/icon_${s}x${s}@2x.png" >/dev/null
+          done
+          iconutil -c icns "$SET" -o src/everai/assets/branding/voicepro.icns
+
+      - name: Build Voice_Pro.app
+        run: python src/everai/build_voicepro.py --ffmpeg "$FFMPEG_BIN" --dist "$RUNNER_TEMP/VoicePro-${{ matrix.label }}"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VoicePro-${{ matrix.label }}
+          path: ${{ runner.temp }}/VoicePro-${{ matrix.label }}.zip
+          if-no-files-found: error

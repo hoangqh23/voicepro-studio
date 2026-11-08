@@ -1,0 +1,6 @@
+__pycache__/
+dist/
+vendor/ffmpeg/bin/
+vendor/ffmpeg/*.zip
+vendor/ffmpeg/sources/
+!assets/voice_samples/*.mp3

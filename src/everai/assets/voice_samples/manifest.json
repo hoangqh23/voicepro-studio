@@ -1,0 +1,469 @@
+{
+  "version": 1,
+  "source_page": "https://www.everai.vn/text-to-speech",
+  "kind": "original voice demos; not parameter-adjusted",
+  "voices": {
+    "vi_male_leduc_mb": {
+      "file": "vi_male_leduc_mb.mp3",
+      "bytes": 544941,
+      "sha256": "212d5012adf772bc7f226995b4b0558ce3031a36b7d9f1037b2ad7ea5630f674",
+      "source_sha256": "212d5012adf772bc7f226995b4b0558ce3031a36b7d9f1037b2ad7ea5630f674",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_leduc_mb_FZBJAUZ.mp3"
+    },
+    "vi_female_thuytien_mn": {
+      "file": "vi_female_thuytien_mn.mp3",
+      "bytes": 332739,
+      "sha256": "7af0a755148eaace5827184a17750b6fefb496cf673f4ca55dd9d04840bb9adc",
+      "source_sha256": "7af0a755148eaace5827184a17750b6fefb496cf673f4ca55dd9d04840bb9adc",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_thuytien_mn.mp3"
+    },
+    "vi_female_thuytrang_mb": {
+      "file": "vi_female_thuytrang_mb.mp3",
+      "bytes": 546477,
+      "sha256": "88a2848321ea2b80ebab0c0b8fba9f53fa2f59cf0dd3763ba153b7151109c1b0",
+      "source_sha256": "88a2848321ea2b80ebab0c0b8fba9f53fa2f59cf0dd3763ba153b7151109c1b0",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_thuytrang_mb_rzuuQ7F.mp3"
+    },
+    "vi_female_kimphuong_mb": {
+      "file": "vi_female_kimphuong_mb.mp3",
+      "bytes": 862893,
+      "sha256": "9bb09fa224a6bab5082f3cee93c1f5c64f8e221ba46056589bbf83c89c614e01",
+      "source_sha256": "9bb09fa224a6bab5082f3cee93c1f5c64f8e221ba46056589bbf83c89c614e01",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_kimphuong_mb_tKhLy5k.mp3"
+    },
+    "vi_male_lenghia_mb": {
+      "file": "vi_male_lenghia_mb.mp3",
+      "bytes": 807981,
+      "sha256": "983aec8e7201a01862e7444d1f03cf67acb5621dd4371d5fa2ff872f3bb5286f",
+      "source_sha256": "983aec8e7201a01862e7444d1f03cf67acb5621dd4371d5fa2ff872f3bb5286f",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_lenghia_mb_BITWyO7.mp3"
+    },
+    "vi_male_minhtriet_mb": {
+      "file": "vi_male_minhtriet_mb.mp3",
+      "bytes": 333993,
+      "sha256": "32ce15acda31b917d1315395cdf0d06fc79011e08d2f61af63a326d729e0c400",
+      "source_sha256": "32ce15acda31b917d1315395cdf0d06fc79011e08d2f61af63a326d729e0c400",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_minhtriet_mb.mp3"
+    },
+    "vi_male_lehoang_mb": {
+      "file": "vi_male_lehoang_mb.mp3",
+      "bytes": 425133,
+      "sha256": "574c40d50d2fa2ef3a6c832bbf3cecbe8850bdc48323100788224c1c9922e16c",
+      "source_sha256": "574c40d50d2fa2ef3a6c832bbf3cecbe8850bdc48323100788224c1c9922e16c",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_lehoang_mb_SRojRwi.mp3"
+    },
+    "vi_male_vanduy_mb": {
+      "file": "vi_male_vanduy_mb.mp3",
+      "bytes": 751534,
+      "sha256": "5792f2fb81d660faf3cc828760f841c72633ac8f2a17aeb3dd58eac1166fc627",
+      "source_sha256": "5792f2fb81d660faf3cc828760f841c72633ac8f2a17aeb3dd58eac1166fc627",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_vanduy_mb.mp3"
+    },
+    "vi_male_dangkhoa_mb": {
+      "file": "vi_male_dangkhoa_mb.mp3",
+      "bytes": 733485,
+      "sha256": "c1d261425107fb625a6c215544d7b751a96759c155989663e21713b23e095c30",
+      "source_sha256": "c1d261425107fb625a6c215544d7b751a96759c155989663e21713b23e095c30",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_dangkhoa_mb.mp3"
+    },
+    "vi_female_thuylinh_mb": {
+      "file": "vi_female_thuylinh_mb.mp3",
+      "bytes": 605997,
+      "sha256": "51bb3599edd92041d0c90b6545b80a50f1e91d9cc9b26bb68a2ab5202db977ec",
+      "source_sha256": "51bb3599edd92041d0c90b6545b80a50f1e91d9cc9b26bb68a2ab5202db977ec",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/thuylinh_thuyetminh.mp3"
+    },
+    "vi_female_hoaithuong_mb": {
+      "file": "vi_female_hoaithuong_mb.mp3",
+      "bytes": 195231,
+      "sha256": "e57830627fd329bcd3e59f4a0e011152a9d9b90ee9828c082cc254a74bca76e6",
+      "source_sha256": "e57830627fd329bcd3e59f4a0e011152a9d9b90ee9828c082cc254a74bca76e6",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_hoaithuong_mb.mp3"
+    },
+    "vi_female_hoaian_mb": {
+      "file": "vi_female_hoaian_mb.mp3",
+      "bytes": 263822,
+      "sha256": "6261679e58f5a396db748afbc7be458e9a26842f52d1dcf43ff00cc5dea05d93",
+      "source_sha256": "6261679e58f5a396db748afbc7be458e9a26842f52d1dcf43ff00cc5dea05d93",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_hoaian_mb.mp3"
+    },
+    "vi_female_hongngan_mn": {
+      "file": "vi_female_hongngan_mn.mp3",
+      "bytes": 273251,
+      "sha256": "6d8eb1889277071666a176d98137cd54564b4393e6fd5d2fa1d63a9b8811cc73",
+      "source_sha256": "6d8eb1889277071666a176d98137cd54564b4393e6fd5d2fa1d63a9b8811cc73",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_hongngan_mn_buon.mp3"
+    },
+    "vi_female_tramanh_mb": {
+      "file": "vi_female_tramanh_mb.mp3",
+      "bytes": 105165,
+      "sha256": "c00b77b4014e94cddb3028304f186d069343eb5c1993f6d7c948549ded90ad51",
+      "source_sha256": "c00b77b4014e94cddb3028304f186d069343eb5c1993f6d7c948549ded90ad51",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_tramanh_mb_sample.mp3"
+    },
+    "vi_male_ductrong_mb": {
+      "file": "vi_male_ductrong_mb.mp3",
+      "bytes": 144578,
+      "sha256": "5874ccb848d46e002d59f844a479db5ba64cbf7c2957923d9a98b047bc7d2a8c",
+      "source_sha256": "5874ccb848d46e002d59f844a479db5ba64cbf7c2957923d9a98b047bc7d2a8c",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/ductrong_sample2.mp3"
+    },
+    "vi_male_tridung_mn": {
+      "file": "vi_male_tridung_mn.mp3",
+      "bytes": 920205,
+      "sha256": "45d3a0b7ff951b3453ff4df1728e7e01cb93c6120c53fb13e2f9f68f776b7ccc",
+      "source_sha256": "45d3a0b7ff951b3453ff4df1728e7e01cb93c6120c53fb13e2f9f68f776b7ccc",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_tridung_mn_sample.mp3"
+    },
+    "vi_male_thanhtrung_mn": {
+      "file": "vi_male_thanhtrung_mn.mp3",
+      "bytes": 594093,
+      "sha256": "a94986875600575e7d6b0e119647a93328c5276a37428613d2963e2a2780ce15",
+      "source_sha256": "a94986875600575e7d6b0e119647a93328c5276a37428613d2963e2a2780ce15",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_thanhtrung_mn_k8K8ONG.mp3"
+    },
+    "vi_male_giahuy_mb": {
+      "file": "vi_male_giahuy_mb.mp3",
+      "bytes": 159542,
+      "sha256": "9517ff30885d26cd053911df49c14b69fa2b32688ccec861a0be8f573c61283d",
+      "source_sha256": "9517ff30885d26cd053911df49c14b69fa2b32688ccec861a0be8f573c61283d",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_giahuy_mb.mp3"
+    },
+    "vi_male_minhquan_mb": {
+      "file": "vi_male_minhquan_mb.mp3",
+      "bytes": 389037,
+      "sha256": "97653696f3f96a0f716b8607cad445cbfcd0446039d1548917514d0e815d9e0d",
+      "source_sha256": "0a3bc20d1cccc64f74d285ac95865118cea2fd648bcb384a4fb9e68b210d9747",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_minhquan_mb.mp3"
+    },
+    "vi_female_honghanh_mn": {
+      "file": "vi_female_honghanh_mn.mp3",
+      "bytes": 315292,
+      "sha256": "3123c76b56c16d446a4d7e928ddbcfd8d311f6d284ceb647c8783b412521208e",
+      "source_sha256": "3123c76b56c16d446a4d7e928ddbcfd8d311f6d284ceb647c8783b412521208e",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_honghanh_mn_podcast.mp3"
+    },
+    "vi_female_khanhhuyentvc_mb": {
+      "file": "vi_female_khanhhuyentvc_mb.mp3",
+      "bytes": 122707,
+      "sha256": "763078bdaf462c2b2ae5466bbad668e0c0b7c53ac4ef03b4043d8e21ff6aeb6a",
+      "source_sha256": "763078bdaf462c2b2ae5466bbad668e0c0b7c53ac4ef03b4043d8e21ff6aeb6a",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/khanhhuyentvc_sample.mp3"
+    },
+    "vi_male_minhkhang_mb": {
+      "file": "vi_male_minhkhang_mb.mp3",
+      "bytes": 241935,
+      "sha256": "2a24061aa5f440dd4b000034f944b189ebd9c0e38433793e786c64bba709660e",
+      "source_sha256": "2a24061aa5f440dd4b000034f944b189ebd9c0e38433793e786c64bba709660e",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/Minh_Khang_3_Kh%C3%A1m_ph%C3%A1_Clear_Men__ac6814d10f66.mp3"
+    },
+    "vi_female_khanhlinh_mb": {
+      "file": "vi_female_khanhlinh_mb.mp3",
+      "bytes": 149481,
+      "sha256": "b6151dc0b0f4b352e94a63cba7cb589d1eeefd10d122c798b74a89198ec305c8",
+      "source_sha256": "b6151dc0b0f4b352e94a63cba7cb589d1eeefd10d122c798b74a89198ec305c8",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_khanhlinh_mb.mp3"
+    },
+    "vi_male_tuankiet_mn": {
+      "file": "vi_male_tuankiet_mn.mp3",
+      "bytes": 156081,
+      "sha256": "9e19c9ac9885bc93e34bbc18365eaff201e0176ba5a2fc32cf604febae7caff4",
+      "source_sha256": "9e19c9ac9885bc93e34bbc18365eaff201e0176ba5a2fc32cf604febae7caff4",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_male_tuankiet_mn.mp3"
+    },
+    "vi_female_trananh_mb": {
+      "file": "vi_female_trananh_mb.mp3",
+      "bytes": 282285,
+      "sha256": "e991309eb3ac5cb8f83ca9a46a1624d86be6a31e27e2907fe6a5547344b753b8",
+      "source_sha256": "17c4e245cb77389fc5317fed1839ffc7493e575fdd5e3b7e6b9338da6356bf64",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/vi_female_trananh_mb.mp3"
+    },
+    "vi_male_echo_default": {
+      "file": "vi_male_echo_default.mp3",
+      "bytes": 81082,
+      "sha256": "c26dcd7d4b976503cbc97efb430992736f887179c28ee62d634b1a3602a2df64",
+      "source_sha256": "c26dcd7d4b976503cbc97efb430992736f887179c28ee62d634b1a3602a2df64",
+      "source": "https://www.everai.vn/static/audio/vi_male_echo_default.mp3"
+    },
+    "vi_female_nova_default": {
+      "file": "vi_female_nova_default.mp3",
+      "bytes": 74990,
+      "sha256": "b3e21e9cd2992753744a126b124063668bf5d9d2fae8461a36b089836198923a",
+      "source_sha256": "b3e21e9cd2992753744a126b124063668bf5d9d2fae8461a36b089836198923a",
+      "source": "https://www.everai.vn/static/audio/vi_female_nova_default.mp3"
+    },
+    "vi_male_onyx_default": {
+      "file": "vi_male_onyx_default.mp3",
+      "bytes": 75798,
+      "sha256": "8e99dca09b460d886b240014f42d4c0e51257cc324f34da8fac9c77bd2a8b249",
+      "source_sha256": "8e99dca09b460d886b240014f42d4c0e51257cc324f34da8fac9c77bd2a8b249",
+      "source": "https://www.everai.vn/static/audio/vi_male_onyx_default.mp3"
+    },
+    "vi_male_vanduc_mn": {
+      "file": "vi_male_vanduc_mn.mp3",
+      "bytes": 77445,
+      "sha256": "a266ca09dff2f6cbb05e1f511009f009c95234a713e57d0459bad700888ff4c6",
+      "source_sha256": "a266ca09dff2f6cbb05e1f511009f009c95234a713e57d0459bad700888ff4c6",
+      "source": "https://www.everai.vn/static/audio/vi_male_vanduc_mn.mp3"
+    },
+    "en_male_eward_thomas": {
+      "file": "en_male_eward_thomas.mp3",
+      "bytes": 379437,
+      "sha256": "b020f11045c742285d6353235d4cdbc09816bc53ceaba888cfa271e8737bcee1",
+      "source_sha256": "b020f11045c742285d6353235d4cdbc09816bc53ceaba888cfa271e8737bcee1",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/en_male_eward__thomas.mp3"
+    },
+    "en_male_lucas_brown": {
+      "file": "en_male_lucas_brown.mp3",
+      "bytes": 249645,
+      "sha256": "20f2ce607ff81505f33035d8fbbb8ac9a35b9fb9dddcddb960091b9ab879e1f1",
+      "source_sha256": "20f2ce607ff81505f33035d8fbbb8ac9a35b9fb9dddcddb960091b9ab879e1f1",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/en_male_lucas_brown.mp3"
+    },
+    "en_famle_christopher": {
+      "file": "en_famle_christopher.mp3",
+      "bytes": 506445,
+      "sha256": "755eb4d38db6984f345a28135cd7f49137a7989e927b6ea7c42782557b48f202",
+      "source_sha256": "755eb4d38db6984f345a28135cd7f49137a7989e927b6ea7c42782557b48f202",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/speakers/en_famle_christopher.mp3"
+    },
+    "en_male_james_alexander": {
+      "file": "en_male_james_alexander.mp3",
+      "bytes": 524791,
+      "sha256": "f3be171f694c1817a19aa3a9a7077f6eb8cd12a98dd44d4056f84e4223e9a96d",
+      "source_sha256": "f3be171f694c1817a19aa3a9a7077f6eb8cd12a98dd44d4056f84e4223e9a96d",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/style-e56a23a9-7a91-46b7_preview_voice_preview_spuds_oxley_-_wise_and_approachabl_N79WO0H.mp3"
+    },
+    "en_male_billy_joe": {
+      "file": "en_male_billy_joe.mp3",
+      "bytes": 225165,
+      "sha256": "8ae308b98a12cffbe324577f963aed88d8b31ac69c96f45a19450276b9bdca1f",
+      "source_sha256": "8ae308b98a12cffbe324577f963aed88d8b31ac69c96f45a19450276b9bdca1f",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/style-ae6bfff7-35c5-4bec_preview_voice_preview_mark_-_natural_conversations_000_6_9FnkHZo.mp3"
+    },
+    "en_male_john_luke": {
+      "file": "en_male_john_luke.mp3",
+      "bytes": 264045,
+      "sha256": "0ad8e1c173217baa6a1e48492d2b1d6b26303adcdfb72180e78c94443effdce1",
+      "source_sha256": "0ad8e1c173217baa6a1e48492d2b1d6b26303adcdfb72180e78c94443effdce1",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/style-0c70f06a-9765-43ad_preview_audio_1_009_6.00s_0.997_0.995_2.mp3"
+    },
+    "en_female_sophia": {
+      "file": "en_female_sophia.mp3",
+      "bytes": 402285,
+      "sha256": "3455f452bd2266109c3c5375efca7a3512f517c5d1d227c5394a220ceeaadf3d",
+      "source_sha256": "3455f452bd2266109c3c5375efca7a3512f517c5d1d227c5394a220ceeaadf3d",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/style-a6926923-59e7-42ba_preview_voice_preview_brittney_-_social_media_voice_-_fu_3hk65kH.mp3"
+    },
+    "en_male_echo_default": {
+      "file": "en_male_echo_default.mp3",
+      "bytes": 185280,
+      "sha256": "0045becb2237e23e08876230df6694e2f4a2f4b8157ce7789bd500a43a0201e9",
+      "source_sha256": "0045becb2237e23e08876230df6694e2f4a2f4b8157ce7789bd500a43a0201e9",
+      "source": "https://www.everai.vn/static/audio/en_male_echo_default.mp3"
+    },
+    "en_female_nova_default": {
+      "file": "en_female_nova_default.mp3",
+      "bytes": 188160,
+      "sha256": "368780be42b0fdcef8739cd60f1ac67edfb93d2e9df63e8bb94c3e1de1bd3867",
+      "source_sha256": "368780be42b0fdcef8739cd60f1ac67edfb93d2e9df63e8bb94c3e1de1bd3867",
+      "source": "https://www.everai.vn/static/audio/en_female_nova_default.mp3"
+    },
+    "en_male_onyx_default": {
+      "file": "en_male_onyx_default.mp3",
+      "bytes": 184800,
+      "sha256": "65f5c663ad28a9be4711fb524041e6d7f060929219605fa5ae40f532614992c6",
+      "source_sha256": "65f5c663ad28a9be4711fb524041e6d7f060929219605fa5ae40f532614992c6",
+      "source": "https://www.everai.vn/static/audio/en_male_onyx_default.mp3"
+    },
+    "en_female_emily_us": {
+      "file": "en_female_emily_us.mp3",
+      "bytes": 73578,
+      "sha256": "c441b674555e9f4d7d038811bdf10dc430dda24a7de1b54dc7fe3c2d3a2c01c2",
+      "source_sha256": "c441b674555e9f4d7d038811bdf10dc430dda24a7de1b54dc7fe3c2d3a2c01c2",
+      "source": "https://www.everai.vn/static/audio/en_female_emily_us.mp3"
+    },
+    "en_female_alice_default": {
+      "file": "en_female_alice_default.mp3",
+      "bytes": 66055,
+      "sha256": "40a662b5b59159f997e26f48370d1853690ce152efed32178cc833e2ad2c7330",
+      "source_sha256": "40a662b5b59159f997e26f48370d1853690ce152efed32178cc833e2ad2c7330",
+      "source": "https://www.everai.vn/static/audio/en_female_alice_default.mp3"
+    },
+    "en_female_jessica_au": {
+      "file": "en_female_jessica_au.mp3",
+      "bytes": 66264,
+      "sha256": "79ac73480d2581939dc6028414e45b573b81c3e914575072105a896373107417",
+      "source_sha256": "79ac73480d2581939dc6028414e45b573b81c3e914575072105a896373107417",
+      "source": "https://www.everai.vn/static/audio/en_female_jessica_au.mp3"
+    },
+    "en_female_elara_br": {
+      "file": "en_female_elara_br.mp3",
+      "bytes": 63965,
+      "sha256": "203413ad10d88051119538a6d4ac66d8de694731d8eac801bb63b9dd89209449",
+      "source_sha256": "203413ad10d88051119538a6d4ac66d8de694731d8eac801bb63b9dd89209449",
+      "source": "https://www.everai.vn/static/audio/en_female_elara_br.mp3"
+    },
+    "en_female_meera_indian": {
+      "file": "en_female_meera_indian.mp3",
+      "bytes": 65846,
+      "sha256": "ef7b2700490098b2f49a129791f3b003cd8de2a7cb77220d39426f34cacf16ca",
+      "source_sha256": "ef7b2700490098b2f49a129791f3b003cd8de2a7cb77220d39426f34cacf16ca",
+      "source": "https://www.everai.vn/static/audio/en_female_meera_indian.mp3"
+    },
+    "zh_female_liu-ying_default": {
+      "file": "zh_female_liu-ying_default.mp3",
+      "bytes": 71071,
+      "sha256": "66ce57bf4ac716d70a6dc724179c13ac6ef8e90bb0a94e26f584c84a496f85c6",
+      "source_sha256": "66ce57bf4ac716d70a6dc724179c13ac6ef8e90bb0a94e26f584c84a496f85c6",
+      "source": "https://www.everai.vn/static/audio/zh_female_liu-ying_default.mp3"
+    },
+    "jp_female_yuki_default": {
+      "file": "jp_female_yuki_default.mp3",
+      "bytes": 79430,
+      "sha256": "ccd990f4ff6dc038387f2d14ca24b12122e6a7e8877972d28ddb04bc1c882b3d",
+      "source_sha256": "ccd990f4ff6dc038387f2d14ca24b12122e6a7e8877972d28ddb04bc1c882b3d",
+      "source": "https://www.everai.vn/static/audio/jp_female_yuki_default.mp3"
+    },
+    "kr_female_seo-yeon_default": {
+      "file": "kr_female_seo-yeon_default.mp3",
+      "bytes": 78385,
+      "sha256": "dbddd676f6cf11a09132e4eebc53de74a03a0ca0e6115503309713dce4154f98",
+      "source_sha256": "dbddd676f6cf11a09132e4eebc53de74a03a0ca0e6115503309713dce4154f98",
+      "source": "https://www.everai.vn/static/audio/kr_female_seo-yeon_default.mp3"
+    },
+    "fr_female_camille_default": {
+      "file": "fr_female_camille_default.mp3",
+      "bytes": 71280,
+      "sha256": "a04c84746add8ab6b87bc607253ef67dcf5968a7382262bc04d18a7eedd21924",
+      "source_sha256": "a04c84746add8ab6b87bc607253ef67dcf5968a7382262bc04d18a7eedd21924",
+      "source": "https://www.everai.vn/static/audio/fr_female_camille_default.mp3"
+    },
+    "es_female_elana_default": {
+      "file": "es_female_elana_default.mp3",
+      "bytes": 74205,
+      "sha256": "2a33ab405b477a949719ed2b1de5a1f63adf59eb9c11c8205fb667e90da8b66d",
+      "source_sha256": "2a33ab405b477a949719ed2b1de5a1f63adf59eb9c11c8205fb667e90da8b66d",
+      "source": "https://www.everai.vn/static/audio/es_female_elana_default.mp3"
+    },
+    "voice-5ea04bb0-8170-4e82": {
+      "file": "voice-5ea04bb0-8170-4e82.mp3",
+      "bytes": 147501,
+      "sha256": "a7c96348eefbb7d4e0be37c6e42277cf4f212fdb972e6f6f5647a0328febedb4",
+      "source_sha256": "a7c96348eefbb7d4e0be37c6e42277cf4f212fdb972e6f6f5647a0328febedb4",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/bd24b2c456ad.mp3"
+    },
+    "voice-9a0cb158-05f5-43fe": {
+      "file": "voice-9a0cb158-05f5-43fe.mp3",
+      "bytes": 205262,
+      "sha256": "a648570c73516c412026e5142db995eff44bf4fd12de47a35dd81a9aade446e0",
+      "source_sha256": "a648570c73516c412026e5142db995eff44bf4fd12de47a35dd81a9aade446e0",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/yt-A9cna9Qm.mp3"
+    },
+    "voice-739e9501-c06f-4cbf": {
+      "file": "voice-739e9501-c06f-4cbf.mp3",
+      "bytes": 220308,
+      "sha256": "985ad6defbac04400696927aacc1df7340a07d22b96b113fa0642e3609c18219",
+      "source_sha256": "985ad6defbac04400696927aacc1df7340a07d22b96b113fa0642e3609c18219",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/Adam_C%C3%A1c_con_v%E1%BB%A3_tin_%C4%91%C6%B0%E1%BB%A3c_87f1b577e5ed.mp3"
+    },
+    "voice-97509013-51cd-4874": {
+      "file": "voice-97509013-51cd-4874.mp3",
+      "bytes": 191469,
+      "sha256": "158167f68a65923bb37ca0e37a4bb300a0155be5e6f22ec7808c738ad7456297",
+      "source_sha256": "158167f68a65923bb37ca0e37a4bb300a0155be5e6f22ec7808c738ad7456297",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/style-6be290c7-0f30-4f71_preview_nuctt.mp3"
+    },
+    "voice-74bb4b22-98a7-41a4": {
+      "file": "voice-74bb4b22-98a7-41a4.mp3",
+      "bytes": 193141,
+      "sha256": "f4f65b1209c197f7c43ae5764a4d23a9c493f2b12bd7a1dd1bbe0e31c753d5e6",
+      "source_sha256": "f4f65b1209c197f7c43ae5764a4d23a9c493f2b12bd7a1dd1bbe0e31c753d5e6",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/style-972cddcc-d4b4-4323_preview_soapnc.mp3"
+    },
+    "voice-22848dd8-d8b8-4342": {
+      "file": "voice-22848dd8-d8b8-4342.mp3",
+      "bytes": 229085,
+      "sha256": "8ea4599664fa2bed690a177b5813b180cad0f2453cd3d4c9182fc603000079fe",
+      "source_sha256": "8ea4599664fa2bed690a177b5813b180cad0f2453cd3d4c9182fc603000079fe",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/tt8a1991c77030.mp3"
+    },
+    "voice-a4cd333e-aa78-4b66": {
+      "file": "voice-a4cd333e-aa78-4b66.mp3",
+      "bytes": 77805,
+      "sha256": "782d7741ff8be8b02f23da4328c80c412cba0c54eb3b3aef38bb1345ad5457e8",
+      "source_sha256": "782d7741ff8be8b02f23da4328c80c412cba0c54eb3b3aef38bb1345ad5457e8",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/bd93we8WGuU_532.80_536.60_0.1899_uxmD2wJ.mp3"
+    },
+    "voice-3e5fafad-595b-46a0": {
+      "file": "voice-3e5fafad-595b-46a0.mp3",
+      "bytes": 99885,
+      "sha256": "51023de88c48d4ad98773b6d32b7285b0da55eb578084d635274b62c312afe5d",
+      "source_sha256": "51023de88c48d4ad98773b6d32b7285b0da55eb578084d635274b62c312afe5d",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/S5uM_klPSGs_19.70_24.60_0.0390.mp3"
+    },
+    "voice-7fefdfa8-beb0-4614": {
+      "file": "voice-7fefdfa8-beb0-4614.mp3",
+      "bytes": 63885,
+      "sha256": "9c067c393dff893955dd721422a41166d7bb4cdc5f0d80832687c2986dd0a4a0",
+      "source_sha256": "9c067c393dff893955dd721422a41166d7bb4cdc5f0d80832687c2986dd0a4a0",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/bd93we8WGuU_1182.00_1185.10_0.0384.mp3"
+    },
+    "voice-4b950958-29a4-4ee5": {
+      "file": "voice-4b950958-29a4-4ee5.mp3",
+      "bytes": 49485,
+      "sha256": "776e244a075a1d37487734bf8de46474473ff9f4528fea3fb4a0740635d16dd6",
+      "source_sha256": "776e244a075a1d37487734bf8de46474473ff9f4528fea3fb4a0740635d16dd6",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/P43CK_Z0L_Q_662.1_664.5_flac_mp3cut.net.mp3"
+    },
+    "voice-f11fb65a-2dc6-4112": {
+      "file": "voice-f11fb65a-2dc6-4112.mp3",
+      "bytes": 90323,
+      "sha256": "9ecfb2d941b43e0ec72f41c6a6f37b9a0d89813cc03c72c06eae34333ad502c9",
+      "source_sha256": "9ecfb2d941b43e0ec72f41c6a6f37b9a0d89813cc03c72c06eae34333ad502c9",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/Nghe_thu_giong_Hai.mp3"
+    },
+    "voice-ab888766-b59f-402b": {
+      "file": "voice-ab888766-b59f-402b.mp3",
+      "bytes": 160074,
+      "sha256": "86551d7489de8346a5c069510d2ee5e1e2cf7c7dcd017fbf361ec626c26ee164",
+      "source_sha256": "86551d7489de8346a5c069510d2ee5e1e2cf7c7dcd017fbf361ec626c26ee164",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/giangdao_sample.mp3"
+    },
+    "voice-085cc114-947b-4442": {
+      "file": "voice-085cc114-947b-4442.mp3",
+      "bytes": 153926,
+      "sha256": "de366ca5db3074bd831e3add92bb0bab22f17021fa3afc571f0e1ddba0a55e50",
+      "source_sha256": "de366ca5db3074bd831e3add92bb0bab22f17021fa3afc571f0e1ddba0a55e50",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/duckien_sample.mp3"
+    },
+    "voice-0e62b161-5866-4e85": {
+      "file": "voice-0e62b161-5866-4e85.mp3",
+      "bytes": 90872,
+      "sha256": "fd343f4c6a91115d010facdf5510092637dc88cf6d27e6faac89e96e950a3303",
+      "source_sha256": "fd343f4c6a91115d010facdf5510092637dc88cf6d27e6faac89e96e950a3303",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/giangdao.mp3"
+    },
+    "voice-ae92cfd4-1531-4ace": {
+      "file": "voice-ae92cfd4-1531-4ace.mp3",
+      "bytes": 102378,
+      "sha256": "958b565708d8e13d54a0a47c0393fa97e13dc2d5513895aba07c8661f201adb2",
+      "source_sha256": "958b565708d8e13d54a0a47c0393fa97e13dc2d5513895aba07c8661f201adb2",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/duckien.mp3"
+    },
+    "voice-efff9285-aea8-45ba": {
+      "file": "voice-efff9285-aea8-45ba.mp3",
+      "bytes": 26013,
+      "sha256": "2a98fd2ba338f259b36b347df5fba0050e95281f143aab53e9d0de8e5d6cff30",
+      "source_sha256": "2a98fd2ba338f259b36b347df5fba0050e95281f143aab53e9d0de8e5d6cff30",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/0JdrripXd9Q_46.5_50.1_pBCORtA.mp3"
+    },
+    "voice-f9ae90f1-12e4-470d": {
+      "file": "voice-f9ae90f1-12e4-470d.mp3",
+      "bytes": 37749,
+      "sha256": "da6a6b05bf73bc5ebb61ba864bbf00df816dfb18ffadc25b6557bc43feaf92f2",
+      "source_sha256": "da6a6b05bf73bc5ebb61ba864bbf00df816dfb18ffadc25b6557bc43feaf92f2",
+      "source": "https://896eb8154c6160673682391ce63bc791.r2.cloudflarestorage.com/everai/styles/2UOLNGUYZLw_760.6_765.8_pOhaI2L.mp3"
+    }
+  }
+}
