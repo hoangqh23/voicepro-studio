@@ -36,9 +36,12 @@ jobs:
       - name: Locate FFmpeg
         run: |
           FFMPEG="$(python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')"
-          chmod +x "$FFMPEG"
-          "$FFMPEG" -version | head -1
-          echo "FFMPEG_BIN=$FFMPEG" >> "$GITHUB_ENV"
+          # The wheel's binary has a versioned name; the app looks for plain "ffmpeg".
+          mkdir -p "$RUNNER_TEMP/ffmpeg-bin"
+          cp "$FFMPEG" "$RUNNER_TEMP/ffmpeg-bin/ffmpeg"
+          chmod +x "$RUNNER_TEMP/ffmpeg-bin/ffmpeg"
+          "$RUNNER_TEMP/ffmpeg-bin/ffmpeg" -version | head -1
+          echo "FFMPEG_BIN=$RUNNER_TEMP/ffmpeg-bin/ffmpeg" >> "$GITHUB_ENV"
 
       - name: Make app icon
         run: |
